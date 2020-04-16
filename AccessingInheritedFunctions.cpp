@@ -1,4 +1,4 @@
-// Hackerrank_11_AccessingInheritedFunctions.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// AccessingInheritedFunctions.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
