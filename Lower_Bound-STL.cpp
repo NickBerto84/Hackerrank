@@ -1,4 +1,4 @@
-// Hackerrank_9_Lower_Bound-STL.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Lower_Bound-STL.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 /*
 https://www.hackerrank.com/challenges/cpp-lower-bound/problem
